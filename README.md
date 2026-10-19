@@ -8,7 +8,7 @@
 
 [![Explore My Work →](assets/pill-cta-work.svg)](https://abufazal.netlify.app/) [![View My Projects →](assets/pill-cta-projects.svg)](https://github.com/abufazal460?tab=repositories)
 
-[![GitHub](assets/pill-github.svg)](https://github.com/abufazal460) [![LinkedIn](assets/pill-linkedin.svg)](https://www.linkedin.com/in/abu-fazal-1950703a6/) [![Fiverr](assets/pill-fiverr.svg)](https://www.fiverr.com/users/abufazal_460/seller_dashboard) [![Internshala](assets/pill-internshala.svg)](https://internshala.com/internships/matching-preferences/) [![Instagram](assets/pill-instagram.svg)](https://www.instagram.com/fazal_shaikh.9/)
+[![GitHub](assets/pill-github.svg)](https://github.com/abufazal460) [![LinkedIn](assets/pill-linkedin.svg)](https://www.linkedin.com/in/abu-fazal-1950703a6/) [![Fiverr](assets/pill-fiverr.svg)](https://www.fiverr.com/abufazal_460) [![Internshala](assets/pill-internshala.svg)](https://internshala.com/internships/matching-preferences/) [![Instagram](assets/pill-instagram.svg)](https://www.instagram.com/fazal_shaikh.9/)
 
 **Location:** India Delhi
 
