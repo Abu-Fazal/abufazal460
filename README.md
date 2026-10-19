@@ -1,12 +1,14 @@
+<p align="center"><img src="assets/banner.svg" alt="Abu Fazal — Full Stack Developer" width="100%"></p>
+
 # Abu Fazal
 
 **Full Stack Developer**
 
 >I turn ideas into experiences — building for the web with code, creativity, and AI.
 
-[Explore My Work →](https://abufazal.netlify.app/) · [View My Projects →](https://github.com/abufazal460?tab=repositories)
+[![Explore My Work →](assets/pill-cta-work.svg)](https://abufazal.netlify.app/) [![View My Projects →](assets/pill-cta-projects.svg)](https://github.com/abufazal460?tab=repositories)
 
-[GitHub](https://github.com/abufazal460) · [LinkedIn](https://www.linkedin.com/in/abu-fazal-1950703a6/) · [Fiverr](https://www.fiverr.com/users/abufazal_460/seller_dashboard) · [Internshala](https://internshala.com/internships/matching-preferences/) · [Instagram](https://www.instagram.com/fazal_shaikh.9/)
+[![GitHub](assets/pill-github.svg)](https://github.com/abufazal460) [![LinkedIn](assets/pill-linkedin.svg)](https://www.linkedin.com/in/abu-fazal-1950703a6/) [![Fiverr](assets/pill-fiverr.svg)](https://www.fiverr.com/users/abufazal_460/seller_dashboard) [![Internshala](assets/pill-internshala.svg)](https://internshala.com/internships/matching-preferences/) [![Instagram](assets/pill-instagram.svg)](https://www.instagram.com/fazal_shaikh.9/)
 
 **Location:** India Delhi
 
@@ -14,7 +16,7 @@
 
 **Chapters:** [01 — The Introduction](#chapter-01--the-introduction) · [02 — The Origin Story](#chapter-02--the-origin-story) · [03 — The Craft](#chapter-03--the-craft) · [04 — Sabr Studio](#chapter-04--sabr-studio) · [05 — Jamia Academy](#chapter-05--jamia-academy) · [06 — The Current Chapter](#chapter-06--the-current-chapter) · [07 — The Next Chapter](#chapter-07--the-next-chapter)
 
----
+<img src="assets/thread-01.svg" alt="Chapter 1 of 7" width="100%">
 
 ## Chapter 01 — The Introduction
 
@@ -26,7 +28,7 @@ Hey, I'm Abu Fazal — a Full Stack Developer, freelance builder, and tech educa
 
 **Current Focus:** Currently teaching web development, building freelance projects, and working on Sabr Studio and Jamia Academy. Focused on reliable full-stack applications, responsive UI, backend APIs, and production-ready deployment.
 
----
+<img src="assets/thread-02.svg" alt="Chapter 2 of 7" width="100%">
 
 ## Chapter 02 — The Origin Story
 
@@ -59,7 +61,7 @@ I believe becoming a better developer means improving not only the code I write,
 
 I don't just want to make things work. I want to understand how they work, why they work, and how to make them better.
 
----
+<img src="assets/thread-03.svg" alt="Chapter 3 of 7" width="100%">
 
 ## Chapter 03 — The Craft
 
@@ -139,7 +141,7 @@ Deployment is not the final checkbox—it is another stage where the application
 
 I believe the best workflow is not about using the most tools. It is about understanding the problem, choosing the right approach, and delivering a solution that works reliably in the real world.
 
----
+<img src="assets/thread-04.svg" alt="Chapter 4 of 7" width="100%">
 
 ## Chapter 04 — Sabr Studio
 
@@ -201,9 +203,9 @@ Sabr Studio represents my experience working beyond the visual layer — connect
 **Project Type:** Freelance Project  
 **Focus:** Full-Stack Development · E-commerce · Admin Dashboard · API Integration · Deployment
 
-[🌐 Visit Live Website](https://sabrstudio.in/) · [💻 Explore Source Code](https://github.com/abufazal460/Sabr-Studio)
+[![🌐 Visit Live Website](assets/pill-live.svg)](https://sabrstudio.in/) [![💻 Explore Source Code](assets/pill-code.svg)](https://github.com/abufazal460/Sabr-Studio)
 
----
+<img src="assets/thread-05.svg" alt="Chapter 5 of 7" width="100%">
 
 ## Chapter 05 — Jamia Academy
 
@@ -296,9 +298,9 @@ Jamia Academy represents my approach to building an education-focused digital ex
 **Project Type:** Freelance Project  
 **Focus:** Frontend Development · UI/UX · Responsive Design · SEO · Web Performance · Deployment
 
-[🌐 Visit Live Website](https://jamiaacademy.in/) · [💻 Explore Source Code](https://github.com/abufazal460/Jamia-Academy)
+[![🌐 Visit Live Website](assets/pill-live.svg)](https://jamiaacademy.in/) [![💻 Explore Source Code](assets/pill-code.svg)](https://github.com/abufazal460/Jamia-Academy)
 
----
+<img src="assets/thread-06.svg" alt="Chapter 6 of 7" width="100%">
 
 ## Chapter 06 — The Current Chapter
 
@@ -350,7 +352,7 @@ I'm working to strengthen both my problem-solving ability and the way I build, e
 
 This section evolves as I build, learn, solve problems, and take on new challenges.
 
----
+<img src="assets/thread-07.svg" alt="Chapter 7 of 7" width="100%">
 
 ## Chapter 07 — The Next Chapter
 
