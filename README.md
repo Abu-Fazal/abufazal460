@@ -8,7 +8,10 @@
 
 [![Explore My Work →](assets/pill-cta-work.svg)](https://abufazal.netlify.app/) [![View My Projects →](assets/pill-cta-projects.svg)](https://github.com/abufazal460?tab=repositories)
 
-[![GitHub](assets/pill-github.svg)](https://github.com/abufazal460) [![LinkedIn](assets/pill-linkedin.svg)](https://www.linkedin.com/in/abu-fazal-1950703a6/) [![Fiverr](assets/pill-fiverr.svg)](https://www.fiverr.com/abufazal_460) [![Internshala](assets/pill-internshala.svg)](https://internshala.com/internships/matching-preferences/) [![Instagram](assets/pill-instagram.svg)](https://www.instagram.com/fazal_shaikh.9/)
+[![GitHub](assets/pill-github.svg)](https://github.com/abufazal460) [![LinkedIn](assets/pill-linkedin.svg)](https://www.linkedin.com/in/abu-fazal-1950703a6/) 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-25D366?logo=whatsapp&logoColor=white)](https://wa.me/919718162907)
+[![Fiverr](https://img.shields.io/badge/Fiverr-My_Profile-1DBF73?logo=fiverr&logoColor=white)](https://www.fiverr.com/abufazal_460)
+[![Internshala](assets/pill-internshala.svg)](https://internshala.com/internships/matching-preferences/) [![Instagram](assets/pill-instagram.svg)](https://www.instagram.com/fazal_shaikh.9/)
 
 **Location:** India Delhi
 
