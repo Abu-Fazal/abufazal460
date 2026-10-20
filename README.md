@@ -4,35 +4,35 @@
 
 **Full Stack Developer**
 
->I turn ideas into experiences — building for the web with code, creativity, and AI.
+> *I turn ideas into experiences — building for the web with code, creativity, and AI.*
 
 [![Explore My Work →](assets/pill-cta-work.svg)](https://abufazal.netlify.app/) [![View My Projects →](assets/pill-cta-projects.svg)](https://github.com/abufazal460?tab=repositories)
 
 [![GitHub](assets/pill-github.svg)](https://github.com/abufazal460) [![LinkedIn](assets/pill-linkedin.svg)](https://www.linkedin.com/in/abu-fazal-1950703a6/) 
 [![Fiverr](assets/pill-fiverr.svg)](https://www.fiverr.com/users/abufazal_460/)
-[![Internshala](assets/pill-internshala.svg)](https://internshala.com/internships/matching-preferences/) [![Instagram](assets/pill-instagram.svg)](https://www.instagram.com/fazal_shaikh.9/)
+[![Internshala](assets/pill-internshala.svg)](https://internshala.com/internships/matching-preferences/) [![Instagram](assets/pill-instagram.svg)](https://www.instagram.com/fazal_shaikh.9/) [![WhatsApp](assets/pill-whatsapp.svg)](https://wa.me/919718162907)
 
-**Location:** India Delhi
+![Location: India Delhi](assets/badge-location.svg)
 
 **Availability:** Open to freelance projects, meaningful collaborations, and opportunities to build impactful web experiences.
 
-**Chapters:** [01 — The Introduction](#chapter-01--the-introduction) · [02 — The Origin Story](#chapter-02--the-origin-story) · [03 — The Craft](#chapter-03--the-craft) · [04 — Sabr Studio](#chapter-04--sabr-studio) · [05 — Jamia Academy](#chapter-05--jamia-academy) · [06 — The Current Chapter](#chapter-06--the-current-chapter) · [07 — The Next Chapter](#chapter-07--the-next-chapter)
+[![01 Introduction](assets/chip-01.svg)](#chapter-01--the-introduction) [![02 Origin Story](assets/chip-02.svg)](#chapter-02--the-origin-story) [![03 The Craft](assets/chip-03.svg)](#chapter-03--the-craft) [![04 Sabr Studio](assets/chip-04.svg)](#chapter-04--sabr-studio) [![05 Jamia Academy](assets/chip-05.svg)](#chapter-05--jamia-academy) [![06 The Current Chapter](assets/chip-06.svg)](#chapter-06--the-current-chapter) [![07 The Next Chapter](assets/chip-07.svg)](#chapter-07--the-next-chapter)
 
-<img src="assets/thread-01.svg" alt="Chapter 1 of 7" width="100%">
+<img src="assets/chapter-01.svg" alt="Chapter 1 of 7" width="100%">
 
 ## Chapter 01 — The Introduction
 
 ### About Me
 
-Hey, I'm Abu Fazal — a Full Stack Developer, freelance builder, and tech educator. I build web experiences, work on real-world projects, and explore AI-assisted development to turn ideas into practical digital products. I also teach web development and computer concepts offline.
+Hey, I'm **Abu Fazal** — a **Full Stack Developer**, **freelance builder**, and **tech educator**. I build web experiences, work on real-world projects, and explore *AI-assisted development* to turn ideas into practical digital products. I also teach <ins>web development and computer concepts offline</ins>.
 
 **Specialization:** `MERN Stack` • `Full-Stack Web Development` • `Frontend Development` • `Backend Development` • `AI-Assisted Development` • `Vibe Coding`
 
 ![MongoDB](assets/badge-mongodb.svg) ![Express.js](assets/badge-express.svg) ![React](assets/badge-react.svg) ![Node.js](assets/badge-nodejs.svg)
 
-**Current Focus:** Currently teaching web development, building freelance projects, and working on Sabr Studio and Jamia Academy. Focused on reliable full-stack applications, responsive UI, backend APIs, and production-ready deployment.
+**Current Focus:** Currently teaching web development, building freelance projects, and working on **Sabr Studio** and **Jamia Academy**. Focused on *reliable full-stack applications*, *responsive UI*, *backend APIs*, and *production-ready deployment*.
 
-<img src="assets/thread-02.svg" alt="Chapter 2 of 7" width="100%">
+<img src="assets/chapter-02.svg" alt="Chapter 2 of 7" width="100%">
 
 ## Chapter 02 — The Origin Story
 
@@ -46,26 +46,33 @@ What started with building interfaces gradually grew into a deeper interest in f
 
 For me, good software is not just code that works. It is a well-structured system designed to solve real problems.
 
-- **Architecture & Data Flow** — Clear system design and well-organized communication between components.
-- **Algorithms & Problem Solving** — Choosing efficient approaches and using Data Structures and Algorithms to solve problems thoughtfully.
-- **Performance & Reliability** — Building applications that remain responsive, dependable, and maintainable.
-- **Search & AI Discoverability** — Considering SEO, GEO, AEO, and AI-driven discovery as part of a modern web strategy.
+`>` **Architecture & Data Flow** — Clear system design and well-organized communication between components.
+
+`>` **Algorithms & Problem Solving** — Choosing efficient approaches and using Data Structures and Algorithms to solve problems thoughtfully.
+
+`>` **Performance & Reliability** — Building applications that remain responsive, dependable, and maintainable.
+
+`>` **Search & AI Discoverability** — Considering SEO, GEO, AEO, and AI-driven discovery as part of a modern web strategy.
 
 ### 🚀 What I'm Working to Improve
 
 I'm continuously developing my skills across multiple areas:
 
-- Data Structures & Algorithms (DSA)
-- System Design
-- Full-Stack Development
-- Communication & Teaching Skills
-- Prompt Engineering & AI Tools
+`>` Data Structures & Algorithms (DSA)
+
+`>` System Design
+
+`>` Full-Stack Development
+
+`>` Communication & Teaching Skills
+
+`>` Prompt Engineering & AI Tools
 
 I believe becoming a better developer means improving not only the code I write, but also the way I think, communicate, teach, and solve problems.
 
-I don't just want to make things work. I want to understand how they work, why they work, and how to make them better.
+*I don't just want to make things work. I want to understand how they work, why they work, and how to make them better.*
 
-<img src="assets/thread-03.svg" alt="Chapter 3 of 7" width="100%">
+<img src="assets/chapter-03.svg" alt="Chapter 3 of 7" width="100%">
 
 ## Chapter 03 — The Craft
 
@@ -145,7 +152,7 @@ Deployment is not the final checkbox—it is another stage where the application
 
 I believe the best workflow is not about using the most tools. It is about understanding the problem, choosing the right approach, and delivering a solution that works reliably in the real world.
 
-<img src="assets/thread-04.svg" alt="Chapter 4 of 7" width="100%">
+<img src="assets/chapter-04.svg" alt="Chapter 4 of 7" width="100%">
 
 ## Chapter 04 — Sabr Studio
 
@@ -157,20 +164,29 @@ Sabr Studio is a freelance project focused on an interior design and architectur
 
 ### 🌐 Explore the Project
 
-- **Live Website:** [sabrstudio.in](https://sabrstudio.in/)
-- **Source Code:** [GitHub Repository](https://github.com/abufazal460/Sabr-Studio)
+`>` **Live Website:** [sabrstudio.in](https://sabrstudio.in/)
+
+`>` **Source Code:** [GitHub Repository](https://github.com/abufazal460/Sabr-Studio)
 
 ### ✨ What I Built
 
-- **Project Showcase:** Project listing and individual project detail pages, with project information managed through the application.
-- **Retail Experience:** Product listings, product detail pages, retail categories, and stock information.
-- **Shopping Cart & Checkout:** Cart management, customer checkout, address handling, and order confirmation flows.
-- **Customer Accounts:** Registration, login, OTP-based authentication flows, customer profiles, and order history.
-- **Admin Dashboard:** Dedicated admin interface for managing projects, retail products, enquiries, and orders.
-- **Enquiry Management:** Contact and project enquiry workflows connected to the backend.
-- **Payment Integration:** Razorpay integration for online checkout and payment-related order workflows.
-- **Media Management:** Cloudinary and upload handling for project and product media.
-- **Responsive UI:** A responsive React interface designed for different screen sizes, with animated interactions and smooth scrolling.
+`>` **Project Showcase:** Project listing and individual project detail pages, with project information managed through the application.
+
+`>` **Retail Experience:** Product listings, product detail pages, retail categories, and stock information.
+
+`>` **Shopping Cart & Checkout:** Cart management, customer checkout, address handling, and order confirmation flows.
+
+`>` **Customer Accounts:** Registration, login, OTP-based authentication flows, customer profiles, and order history.
+
+`>` **Admin Dashboard:** Dedicated admin interface for managing projects, retail products, enquiries, and orders.
+
+`>` **Enquiry Management:** Contact and project enquiry workflows connected to the backend.
+
+`>` **Payment Integration:** Razorpay integration for online checkout and payment-related order workflows.
+
+`>` **Media Management:** Cloudinary and upload handling for project and product media.
+
+`>` **Responsive UI:** A responsive React interface designed for different screen sizes, with animated interactions and smooth scrolling.
 
 ### ⚙️ Architecture & Technology
 
@@ -195,12 +211,17 @@ Sabr Studio is a freelance project focused on an interior design and architectur
 
 ### 🧩 Engineering Highlights
 
-- Separated frontend and backend into a structured monorepo.
-- Organized the application around dedicated features and reusable components.
-- Implemented API-driven project and retail data flows.
-- Built protected admin routes and dedicated management interfaces.
-- Added backend tests and automated CI checks for important application workflows.
-- Worked on deployment configuration, environment validation, database connectivity, and production-readiness checks.
+`>` Separated frontend and backend into a structured monorepo.
+
+`>` Organized the application around dedicated features and reusable components.
+
+`>` Implemented API-driven project and retail data flows.
+
+`>` Built protected admin routes and dedicated management interfaces.
+
+`>` Added backend tests and automated CI checks for important application workflows.
+
+`>` Worked on deployment configuration, environment validation, database connectivity, and production-readiness checks.
 
 ### 💡 What This Project Represents
 
@@ -211,7 +232,7 @@ Sabr Studio represents my experience working beyond the visual layer — connect
 
 [![🌐 Visit Live Website](assets/pill-live.svg)](https://sabrstudio.in/) [![💻 Explore Source Code](assets/pill-code.svg)](https://github.com/abufazal460/Sabr-Studio)
 
-<img src="assets/thread-05.svg" alt="Chapter 5 of 7" width="100%">
+<img src="assets/chapter-05.svg" alt="Chapter 5 of 7" width="100%">
 
 ## Chapter 05 — Jamia Academy
 
@@ -223,32 +244,47 @@ Jamia Academy is a freelance website project for a computer and skills training 
 
 ### 🌐 Explore the Project
 
-- **Live Website:** [jamiaacademy.in](https://jamiaacademy.in/)
-- **Source Code:** [GitHub Repository](https://github.com/abufazal460/Jamia-Academy)
+`>` **Live Website:** [jamiaacademy.in](https://jamiaacademy.in/)
+
+`>` **Source Code:** [GitHub Repository](https://github.com/abufazal460/Jamia-Academy)
 
 ### ✨ What I Built
 
-- **Homepage:** A structured introduction to the institute, its offerings, highlights, testimonials, FAQs, and course discovery.
-- **About Page:** Institute information, vision and mission, values, faculty, and background.
-- **Course Catalogue:** A dedicated course listing experience with course details, duration, levels, and learning modules.
-- **WhatsApp Enquiry Flow:** Course-related actions that generate pre-filled WhatsApp messages to make enquiries easier.
-- **Gallery:** A tabbed gallery for classroom, event, and tour imagery, with a fullscreen lightbox.
-- **Contact Page:** Contact form, social links, location map, and enquiry information.
-- **Responsive Interface:** A mobile-first layout designed for small screens, tablets, laptops, and larger displays.
-- **Animated User Experience:** Page transitions, scroll-triggered reveals, interactive hover effects, and smooth scrolling.
-- **SEO Foundations:** Page-specific titles and metadata, canonical URLs, Open Graph and Twitter cards, JSON-LD structured data, robots.txt, and sitemap.xml.
-- **Progressive Web App Setup:** PWA-related configuration and web app assets included in the project.
+`>` **Homepage:** A structured introduction to the institute, its offerings, highlights, testimonials, FAQs, and course discovery.
+
+`>` **About Page:** Institute information, vision and mission, values, faculty, and background.
+
+`>` **Course Catalogue:** A dedicated course listing experience with course details, duration, levels, and learning modules.
+
+`>` **WhatsApp Enquiry Flow:** Course-related actions that generate pre-filled WhatsApp messages to make enquiries easier.
+
+`>` **Gallery:** A tabbed gallery for classroom, event, and tour imagery, with a fullscreen lightbox.
+
+`>` **Contact Page:** Contact form, social links, location map, and enquiry information.
+
+`>` **Responsive Interface:** A mobile-first layout designed for small screens, tablets, laptops, and larger displays.
+
+`>` **Animated User Experience:** Page transitions, scroll-triggered reveals, interactive hover effects, and smooth scrolling.
+
+`>` **SEO Foundations:** Page-specific titles and metadata, canonical URLs, Open Graph and Twitter cards, JSON-LD structured data, robots.txt, and sitemap.xml.
+
+`>` **Progressive Web App Setup:** PWA-related configuration and web app assets included in the project.
 
 ### 🎨 Design & User Experience
 
 The website uses a distinctive terracotta-and-charcoal visual direction, locally stored typography, expressive course cards, and motion effects to give the educational platform a modern identity while keeping its information easy to navigate.
 
-- Feature-based page and component organization.
-- Reusable UI patterns and shared layout components.
-- Centralized feature data to simplify content updates.
-- Lazy-loaded routes and image-loading optimizations.
-- Reduced-motion support for users who prefer less animation.
-- Dedicated not-found and error-handling components.
+`>` Feature-based page and component organization.
+
+`>` Reusable UI patterns and shared layout components.
+
+`>` Centralized feature data to simplify content updates.
+
+`>` Lazy-loaded routes and image-loading optimizations.
+
+`>` Reduced-motion support for users who prefer less animation.
+
+`>` Dedicated not-found and error-handling components.
 
 ### ⚙️ Technology Stack
 
@@ -292,12 +328,17 @@ The website uses a distinctive terracotta-and-charcoal visual direction, locally
 
 ### 🧩 Engineering Highlights
 
-- Organized the frontend using a feature-based architecture, keeping related components, data, hooks, and animation logic together.
-- Used route-level code splitting to reduce the initial JavaScript payload.
-- Built reusable layouts, shared hooks, and motion patterns.
-- Structured course, gallery, FAQ, and testimonial content separately from presentation components.
-- Implemented SEO metadata and structured data for public-facing pages.
-- Configured deployment for the Vercel-hosted application and the custom jamiaacademy.in domain.
+`>` Organized the frontend using a feature-based architecture, keeping related components, data, hooks, and animation logic together.
+
+`>` Used route-level code splitting to reduce the initial JavaScript payload.
+
+`>` Built reusable layouts, shared hooks, and motion patterns.
+
+`>` Structured course, gallery, FAQ, and testimonial content separately from presentation components.
+
+`>` Implemented SEO metadata and structured data for public-facing pages.
+
+`>` Configured deployment for the Vercel-hosted application and the custom jamiaacademy.in domain.
 
 ### 💡 What This Project Represents
 
@@ -308,7 +349,7 @@ Jamia Academy represents my approach to building an education-focused digital ex
 
 [![🌐 Visit Live Website](assets/pill-live.svg)](https://jamiaacademy.in/) [![💻 Explore Source Code](assets/pill-code.svg)](https://github.com/abufazal460/Jamia-Academy)
 
-<img src="assets/thread-06.svg" alt="Chapter 6 of 7" width="100%">
+<img src="assets/chapter-06.svg" alt="Chapter 6 of 7" width="100%">
 
 ## Chapter 06 — The Current Chapter
 
@@ -324,43 +365,55 @@ This chapter is a snapshot of what I'm building, what I'm learning, and what I'm
 
 A web project focused on interior design and retail experiences.
 
-- **Current task:** [Add the feature or improvement you're actively working on]
-- **Focus:** [Add the relevant technical or product goal]
+`>` **Current task:** [Add the feature or improvement you're actively working on]
+
+`>` **Focus:** [Add the relevant technical or product goal]
 
 **Jamia Academy — Live Website · GitHub Repository**
 
 An educational website project.
 
-- **Current task:** [Add the feature or improvement you're actively working on]
-- **Focus:** [Add the relevant technical or product goal]
+`>` **Current task:** [Add the feature or improvement you're actively working on]
+
+`>` **Focus:** [Add the relevant technical or product goal]
 
 ### 🔧 Recently Solved
 
-- **Challenge:** [Describe a real technical issue]
-- **Root cause:** [Explain what caused the issue]
-- **Solution:** [Describe the fix or implementation change]
-- **Verification:** [Explain how you tested and confirmed the result]
+`>` **Challenge:** [Describe a real technical issue]
+
+`>` **Root cause:** [Explain what caused the issue]
+
+`>` **Solution:** [Describe the fix or implementation change]
+
+`>` **Verification:** [Explain how you tested and confirmed the result]
 
 ### 📚 Currently Learning
 
-- Data Structures & Algorithms (DSA)
-- System Design
-- Full-Stack Development
-- Communication & Teaching Skills
-- Prompt Engineering & AI Tools
+`>` Data Structures & Algorithms (DSA)
+
+`>` System Design
+
+`>` Full-Stack Development
+
+`>` Communication & Teaching Skills
+
+`>` Prompt Engineering & AI Tools
 
 I'm working to strengthen both my problem-solving ability and the way I build, explain, and improve software.
 
 ### 🎯 Next Milestone
 
-- Complete the next priority in my active project.
-- Practise DSA and strengthen problem-solving fundamentals.
-- Apply system design principles to practical development.
-- Continue improving testing, deployment, and production-readiness workflows.
+`>` Complete the next priority in my active project.
+
+`>` Practise DSA and strengthen problem-solving fundamentals.
+
+`>` Apply system design principles to practical development.
+
+`>` Continue improving testing, deployment, and production-readiness workflows.
 
 This section evolves as I build, learn, solve problems, and take on new challenges.
 
-<img src="assets/thread-07.svg" alt="Chapter 7 of 7" width="100%">
+<img src="assets/chapter-07.svg" alt="Chapter 7 of 7" width="100%">
 
 ## Chapter 07 — The Next Chapter
 
@@ -398,11 +451,15 @@ I'd also like to explore meaningful development collaborations and opportunities
 
 My learning journey continues across:
 
-- Data Structures & Algorithms
-- System Design & Full-Stack Architecture
-- Prompt Engineering & AI-Assisted Development
-- Communication & Teaching Skills
-- Software Quality, Testing & Deployment
+`>` Data Structures & Algorithms
+
+`>` System Design & Full-Stack Architecture
+
+`>` Prompt Engineering & AI-Assisted Development
+
+`>` Communication & Teaching Skills
+
+`>` Software Quality, Testing & Deployment
 
 I want to become a developer who can think critically, solve real problems, build dependable software, and explain complex ideas clearly.
 

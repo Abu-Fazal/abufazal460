@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 328 40" width="328" height="40" role="img" aria-label="Location: India Delhi"><title>Location: India Delhi</title>
+<rect x="1" y="1" width="326" height="38" rx="8" fill="#111315" stroke="#2A2F36" stroke-width="2"/>
+<text x="16" y="26" font-family="ui-monospace,'SFMono-Regular','JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="16" font-weight="800" fill="#8B949E" letter-spacing="2">LOCATION</text>
+<path d="M130 1h189a8 8 0 0 1 8 8v22a8 8 0 0 1-8 8h-189z" fill="#FACC15"/>
+<g transform="translate(142,7) scale(1.1)"><path d="M12 2C8.1 2 5 5.1 5 9c0 5.2 7 13 7 13s7-7.8 7-13c0-3.9-3.1-7-7-7zm0 9.6a2.6 2.6 0 1 1 0-5.2 2.6 2.6 0 0 1 0 5.2z" fill="#0A0A0A"/></g>
+<text x="176" y="26.5" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="19" font-weight="800" fill="#0A0A0A">India Delhi</text></svg>

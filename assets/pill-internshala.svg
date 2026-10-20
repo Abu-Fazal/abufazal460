@@ -1,5 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 211 44" width="211" height="44" role="img" aria-label="Internshala">
-<title>Internshala</title><defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1426"/><stop offset="1" stop-color="#1B1B4B"/></linearGradient>
-<linearGradient id="s" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22D3EE"/><stop offset="1" stop-color="#A78BFA"/></linearGradient></defs>
-<rect x="1" y="1" width="209" height="42" rx="21.0" fill="url(#b)" stroke="url(#s)" stroke-width="2"/>
-<rect x="14" y="12" width="20" height="20" rx="4" fill="#BAE6FD"/><text x="24" y="27" text-anchor="middle" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="800" fill="#0B1426">I</text><text x="48" y="28.5" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="18" font-weight="600" fill="#E0F2FE">Internshala</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 195 44" width="195" height="44" role="img" aria-label="Internshala"><title>Internshala</title>
+<rect x="1" y="1" width="193" height="42" rx="8" fill="#111315" stroke="#00E676" stroke-width="2"/>
+<rect x="14" y="11.0" width="22" height="22" rx="4" fill="#F5F7F8"/><text x="25" y="28.0" text-anchor="middle" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="800" fill="#0A0A0A">I</text><text x="48" y="28.5" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="18" font-weight="700" fill="#F5F7F8">Internshala</text></svg>
