@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 28" width="1200" height="28" role="img" aria-label="Section divider"><title>Section divider</title>
+<defs><linearGradient id="d" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22D3EE" stop-opacity="0"/><stop offset=".3" stop-color="#22D3EE"/><stop offset=".7" stop-color="#A78BFA"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></linearGradient></defs>
+<line x1="40" y1="14" x2="1160" y2="14" stroke="url(#d)" stroke-width="3" stroke-linecap="round"/><circle cx="600" cy="14" r="8" fill="#0B1426" stroke="#BAE6FD" stroke-width="3"/></svg>

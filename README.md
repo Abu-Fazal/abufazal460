@@ -26,7 +26,9 @@
 
 Hey, I'm Abu Fazal — a Full Stack Developer, freelance builder, and tech educator. I build web experiences, work on real-world projects, and explore AI-assisted development to turn ideas into practical digital products. I also teach web development and computer concepts offline.
 
-**Specialization:** MERN Stack • Full-Stack Web Development • Frontend Development • Backend Development • AI-Assisted Development • Vibe Coding
+**Specialization:** `MERN Stack` • `Full-Stack Web Development` • `Frontend Development` • `Backend Development` • `AI-Assisted Development` • `Vibe Coding`
+
+![MongoDB](assets/badge-mongodb.svg) ![Express.js](assets/badge-express.svg) ![React](assets/badge-react.svg) ![Node.js](assets/badge-nodejs.svg)
 
 **Current Focus:** Currently teaching web development, building freelance projects, and working on Sabr Studio and Jamia Academy. Focused on reliable full-stack applications, responsive UI, backend APIs, and production-ready deployment.
 
@@ -79,7 +81,7 @@ Every project starts with its requirements.
 
 I first work to understand the problem, the expected outcome, the user needs, and the features the product must deliver. This helps establish a clear direction before implementation begins.
 
-**My focus:** Requirements · Problem Analysis · Scope · Expected Behaviour
+**My focus:** `Requirements` · `Problem Analysis` · `Scope` · `Expected Behaviour`
 
 ### 🧭 02. Planning & UI/UX — Design With Intent
 
@@ -87,7 +89,7 @@ Before implementation, I use Figma to plan the visual direction and user experie
 
 I focus on layouts, user flows, responsive interfaces, and a consistent visual language. I also organize the requirements into a practical implementation plan so that the design and functionality work together.
 
-**My focus:** Figma · Wireframes · User Flows · Responsive UI
+**My focus:** `Figma` · `Wireframes` · `User Flows` · `Responsive UI`
 
 ### 🧠 03. AI-Assisted Problem-Solving — The Right Tool for the Problem
 
@@ -107,7 +109,7 @@ My full-stack workflow involves building interfaces, implementing backend functi
 
 I aim to keep the implementation aligned with the requirements, with attention to maintainability, performance, and real user needs.
 
-**My focus:** Frontend · Backend · APIs · Database Integration · Data Flow
+**My focus:** `Frontend` · `Backend` · `APIs` · `Database Integration` · `Data Flow`
 
 ### 🧪 05. Testing — Verify Before Trusting
 
@@ -115,7 +117,7 @@ I use both manual testing and automated tests to validate application behaviour.
 
 I check whether features behave as expected, investigate failures, fix issues, and rerun relevant checks to verify the changes.
 
-**My focus:** Manual Testing · Automated Tests · API Testing · Debugging · Regression Checks
+**My focus:** `Manual Testing` · `Automated Tests` · `API Testing` · `Debugging` · `Regression Checks`
 
 ### 🔀 06. Version Control & CI/CD — Build a Reliable Workflow
 
@@ -123,7 +125,7 @@ I use Git and GitHub to manage source code and track changes. Where configured, 
 
 The goal is to make changes easier to track, verify, and deliver while reducing avoidable deployment issues.
 
-**My focus:** Git · GitHub · Automation · CI/CD Pipelines
+**My focus:** `Git` · `GitHub` · `Automation` · `CI/CD Pipelines`
 
 ### 🚀 07. Deployment — From Local Development to Production
 
@@ -133,9 +135,9 @@ My deployment workflow includes preparing the application for production, config
 
 Deployment is not the final checkbox—it is another stage where the application must be verified.
 
-**My focus:** Production Builds · Hosting · Environment Configuration · Post-Deployment Verification
+**My focus:** `Production Builds` · `Hosting` · `Environment Configuration` · `Post-Deployment Verification`
 
----
+<img src="assets/divider.svg" alt="" width="100%">
 
 ### ⚡ My Working Philosophy
 
@@ -172,6 +174,8 @@ Sabr Studio is a freelance project focused on an interior design and architectur
 
 ### ⚙️ Architecture & Technology
 
+![React](assets/badge-react.svg) ![Vite](assets/badge-vite.svg) ![Tailwind CSS](assets/badge-tailwind.svg) ![Node.js](assets/badge-nodejs.svg) ![Express.js](assets/badge-express.svg) ![MongoDB](assets/badge-mongodb.svg) ![Razorpay](assets/badge-razorpay.svg) ![Cloudinary](assets/badge-cloudinary.svg) ![Vercel](assets/badge-vercel.svg) ![Hostinger](assets/badge-hostinger.svg)
+
 <details>
 <summary>View table</summary>
 
@@ -203,7 +207,7 @@ Sabr Studio is a freelance project focused on an interior design and architectur
 Sabr Studio represents my experience working beyond the visual layer — connecting the user interface, APIs, database operations, admin workflows, customer journeys, and deployment into one full-stack application.
 
 **Project Type:** Freelance Project  
-**Focus:** Full-Stack Development · E-commerce · Admin Dashboard · API Integration · Deployment
+**Focus:** `Full-Stack Development` · `E-commerce` · `Admin Dashboard` · `API Integration` · `Deployment`
 
 [![🌐 Visit Live Website](assets/pill-live.svg)](https://sabrstudio.in/) [![💻 Explore Source Code](assets/pill-code.svg)](https://github.com/abufazal460/Sabr-Studio)
 
@@ -247,6 +251,8 @@ The website uses a distinctive terracotta-and-charcoal visual direction, locally
 - Dedicated not-found and error-handling components.
 
 ### ⚙️ Technology Stack
+
+![React](assets/badge-react.svg) ![Vite](assets/badge-vite.svg) ![Tailwind CSS](assets/badge-tailwind.svg) ![Framer Motion](assets/badge-framer-motion.svg) ![GSAP](assets/badge-gsap.svg) ![ESLint](assets/badge-eslint.svg) ![Vercel](assets/badge-vercel.svg)
 
 <details>
 <summary>View table</summary>
@@ -298,7 +304,7 @@ The website uses a distinctive terracotta-and-charcoal visual direction, locally
 Jamia Academy represents my approach to building an education-focused digital experience: clear information architecture, accessible course discovery, purposeful animations, responsive design, and practical enquiry journeys.
 
 **Project Type:** Freelance Project  
-**Focus:** Frontend Development · UI/UX · Responsive Design · SEO · Web Performance · Deployment
+**Focus:** `Frontend Development` · `UI/UX` · `Responsive Design` · `SEO` · `Web Performance` · `Deployment`
 
 [![🌐 Visit Live Website](assets/pill-live.svg)](https://jamiaacademy.in/) [![💻 Explore Source Code](assets/pill-code.svg)](https://github.com/abufazal460/Jamia-Academy)
 
@@ -400,7 +406,7 @@ My learning journey continues across:
 
 I want to become a developer who can think critically, solve real problems, build dependable software, and explain complex ideas clearly.
 
----
+<img src="assets/divider.svg" alt="" width="100%">
 
 The next chapter isn't about claiming I've made it. It's about becoming better at what I do, one problem, one project, and one lesson at a time.
 
