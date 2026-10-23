@@ -1,24 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-labelledby="t">
 <title id="t">Abu Fazal — Full Stack Developer</title>
 <style>
-@keyframes k0{0%,4.990%{fill-opacity:0}5.000%,88.333%{fill-opacity:1}91.667%,100%{fill-opacity:0}}
-.k0{animation:k0 12s linear infinite}
-@keyframes k1{0%,6.157%{fill-opacity:0}6.167%,88.333%{fill-opacity:1}91.667%,100%{fill-opacity:0}}
-.k1{animation:k1 12s linear infinite}
-@keyframes k2{0%,7.323%{fill-opacity:0}7.333%,88.333%{fill-opacity:1}91.667%,100%{fill-opacity:0}}
-.k2{animation:k2 12s linear infinite}
-@keyframes k4{0%,9.657%{fill-opacity:0}9.667%,88.333%{fill-opacity:1}91.667%,100%{fill-opacity:0}}
-.k4{animation:k4 12s linear infinite}
-@keyframes k5{0%,10.823%{fill-opacity:0}10.833%,88.333%{fill-opacity:1}91.667%,100%{fill-opacity:0}}
-.k5{animation:k5 12s linear infinite}
-@keyframes k6{0%,11.990%{fill-opacity:0}12.000%,88.333%{fill-opacity:1}91.667%,100%{fill-opacity:0}}
-.k6{animation:k6 12s linear infinite}
-@keyframes k7{0%,13.157%{fill-opacity:0}13.167%,88.333%{fill-opacity:1}91.667%,100%{fill-opacity:0}}
-.k7{animation:k7 12s linear infinite}
-@keyframes k8{0%,14.323%{fill-opacity:0}14.333%,88.333%{fill-opacity:1}91.667%,100%{fill-opacity:0}}
-.k8{animation:k8 12s linear infinite}
-@keyframes cm{0%{opacity:0;transform:translateX(0px)}4.167%{opacity:1;transform:translateX(0px)}5%{opacity:1;transform:translateX(68px)}6.167%{opacity:1;transform:translateX(136px)}7.333%{opacity:1;transform:translateX(204px)}8.5%{opacity:1;transform:translateX(272px)}9.667%{opacity:1;transform:translateX(340px)}10.833%{opacity:1;transform:translateX(408px)}12%{opacity:1;transform:translateX(476px)}13.167%{opacity:1;transform:translateX(544px)}14.333%{opacity:1;transform:translateX(612px)}28.333%{opacity:0;transform:translateX(612px)}}
-.cur{animation:cm 12s step-end infinite}
+@keyframes k0{0%,20.833%{fill-opacity:0}20.933%,100%{fill-opacity:1}}
+.k0{animation:k0 2.4s linear 0s 1 both}
+@keyframes k1{0%,26.667%{fill-opacity:0}26.767%,100%{fill-opacity:1}}
+.k1{animation:k1 2.4s linear 0s 1 both}
+@keyframes k2{0%,32.500%{fill-opacity:0}32.600%,100%{fill-opacity:1}}
+.k2{animation:k2 2.4s linear 0s 1 both}
+@keyframes k4{0%,44.167%{fill-opacity:0}44.267%,100%{fill-opacity:1}}
+.k4{animation:k4 2.4s linear 0s 1 both}
+@keyframes k5{0%,50.000%{fill-opacity:0}50.100%,100%{fill-opacity:1}}
+.k5{animation:k5 2.4s linear 0s 1 both}
+@keyframes k6{0%,55.833%{fill-opacity:0}55.933%,100%{fill-opacity:1}}
+.k6{animation:k6 2.4s linear 0s 1 both}
+@keyframes k7{0%,61.667%{fill-opacity:0}61.767%,100%{fill-opacity:1}}
+.k7{animation:k7 2.4s linear 0s 1 both}
+@keyframes k8{0%,67.500%{fill-opacity:0}67.600%,100%{fill-opacity:1}}
+.k8{animation:k8 2.4s linear 0s 1 both}
+@keyframes cm{0%{opacity:0;transform:translateX(0px)}20.833%{opacity:1;transform:translateX(0px)}20.833%{opacity:1;transform:translateX(68px)}26.667%{opacity:1;transform:translateX(136px)}32.500%{opacity:1;transform:translateX(204px)}38.333%{opacity:1;transform:translateX(272px)}44.167%{opacity:1;transform:translateX(340px)}50.000%{opacity:1;transform:translateX(408px)}55.833%{opacity:1;transform:translateX(476px)}61.667%{opacity:1;transform:translateX(544px)}67.500%{opacity:1;transform:translateX(628px)}100%{opacity:1;transform:translateX(628px)}}
+.cur{animation:cm 2.4s step-end 0s 1 both}
 @media (prefers-reduced-motion:reduce){*{animation:none!important}.cur{opacity:0!important}}
 </style>
 <rect width="1200" height="300" rx="14" fill="#0A0A0A"/>

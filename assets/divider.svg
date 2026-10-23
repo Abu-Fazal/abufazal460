@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 24" width="1200" height="24" role="img" aria-label="Section divider"><title>Section divider</title><style>
-.sig{animation:sg 7s linear infinite}
+.sig{opacity:0;animation:sg 3.5s ease-in-out 0.5s 1 both}
 @keyframes sg{0%{opacity:0;transform:translateX(0px)}8%{opacity:1}92%{opacity:1}100%{opacity:0;transform:translateX(1100px)}}
 @media (prefers-reduced-motion:reduce){*{animation:none!important}}
 </style>
