@@ -1,7 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="1200" height="150" role="img" aria-label="Chapter 7 of 7">
 <title>Chapter 7 of 7</title>
+<style>
+@keyframes gl{0%{opacity:0}6%{opacity:.55}14%,100%{opacity:0}}
+.g0{animation:gl 6s linear infinite;animation-delay:0.40s}
+.g1{animation:gl 6s linear infinite;animation-delay:0.58s}
+.g2{animation:gl 6s linear infinite;animation-delay:0.76s}
+.g3{animation:gl 6s linear infinite;animation-delay:0.94s}
+.g4{animation:gl 6s linear infinite;animation-delay:1.12s}
+.g5{animation:gl 6s linear infinite;animation-delay:1.30s}
+.g6{animation:gl 6s linear infinite;animation-delay:1.48s}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
 <rect width="1200" height="150" rx="12" fill="#111315"/><rect x="1" y="1" width="1198" height="148" rx="12" fill="none" stroke="#2A2F36" stroke-width="2"/>
 <rect x="0" y="0" width="12" height="150" rx="5" fill="#00E676"/>
 <text x="46" y="118" font-family="ui-monospace,'SFMono-Regular','JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="104" font-weight="800" fill="#00E676">07</text>
 <text x="250" y="72" font-family="ui-monospace,'SFMono-Regular','JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="40" font-weight="700" fill="#8B949E" letter-spacing="4">CHAPTER <tspan fill="#F5F7F8">07</tspan> / 07</text>
-<rect x="250" y="96" width="120" height="22" rx="3" fill="#00A152"/><rect x="380" y="96" width="120" height="22" rx="3" fill="#00A152"/><rect x="510" y="96" width="120" height="22" rx="3" fill="#00A152"/><rect x="640" y="96" width="120" height="22" rx="3" fill="#00A152"/><rect x="770" y="96" width="120" height="22" rx="3" fill="#00A152"/><rect x="900" y="96" width="120" height="22" rx="3" fill="#00A152"/><rect x="1030" y="96" width="120" height="22" rx="3" fill="#00E676"/></svg>
+<rect x="250" y="96" width="120" height="22" rx="3" fill="#00A152"/><rect x="380" y="96" width="120" height="22" rx="3" fill="#00A152"/><rect x="510" y="96" width="120" height="22" rx="3" fill="#00A152"/><rect x="640" y="96" width="120" height="22" rx="3" fill="#00A152"/><rect x="770" y="96" width="120" height="22" rx="3" fill="#00A152"/><rect x="900" y="96" width="120" height="22" rx="3" fill="#00A152"/><rect x="1030" y="96" width="120" height="22" rx="3" fill="#00E676"/><rect class="g0" opacity="0" x="250" y="96" width="120" height="22" rx="3" fill="#F5F7F8"/><rect class="g1" opacity="0" x="380" y="96" width="120" height="22" rx="3" fill="#F5F7F8"/><rect class="g2" opacity="0" x="510" y="96" width="120" height="22" rx="3" fill="#F5F7F8"/><rect class="g3" opacity="0" x="640" y="96" width="120" height="22" rx="3" fill="#F5F7F8"/><rect class="g4" opacity="0" x="770" y="96" width="120" height="22" rx="3" fill="#F5F7F8"/><rect class="g5" opacity="0" x="900" y="96" width="120" height="22" rx="3" fill="#F5F7F8"/><rect class="g6" opacity="0" x="1030" y="96" width="120" height="22" rx="3" fill="#F5F7F8"/></svg>

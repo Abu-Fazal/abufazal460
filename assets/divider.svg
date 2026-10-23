@@ -1,2 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 24" width="1200" height="24" role="img" aria-label="Section divider"><title>Section divider</title>
-<line x1="20" y1="12" x2="1180" y2="12" stroke="#2A2F36" stroke-width="3"/><rect x="20" y="7" width="60" height="10" fill="#00E676"/><rect x="588" y="4" width="24" height="16" fill="#0A0A0A" stroke="#8B949E" stroke-width="2"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 24" width="1200" height="24" role="img" aria-label="Section divider"><title>Section divider</title><style>
+.sig{animation:sg 7s linear infinite}
+@keyframes sg{0%{opacity:0;transform:translateX(0px)}8%{opacity:1}92%{opacity:1}100%{opacity:0;transform:translateX(1100px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<line x1="20" y1="12" x2="1180" y2="12" stroke="#2A2F36" stroke-width="3"/><rect x="20" y="7" width="60" height="10" fill="#00E676"/><rect x="588" y="4" width="24" height="16" fill="#0A0A0A" stroke="#8B949E" stroke-width="2"/><rect class="sig" opacity="0" x="20" y="8" width="16" height="8" fill="#00E676"/></svg>

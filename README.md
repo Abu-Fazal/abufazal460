@@ -38,13 +38,13 @@ Hey, I'm **Abu Fazal** — a **Full Stack Developer**, **freelance builder**, an
 
 ### I explored. I discovered. I build.
 
-My journey into development began with HTML and CSS. Before finding my direction, I explored different career paths, trying to understand where my interests and strengths aligned. Over time, I discovered that web development genuinely fascinated me — I found myself learning, understanding, and connecting with it more naturally.
+My journey into development began with **HTML and CSS**. Before finding my direction, I explored different career paths, trying to understand where my interests and strengths aligned. Over time, I discovered that **web development** genuinely fascinated me — I found myself learning, understanding, and connecting with it more naturally.
 
-What started with building interfaces gradually grew into a deeper interest in full-stack development: understanding how applications work behind the scenes, how data flows through a system, and how thoughtful engineering turns ideas into useful products.
+What started with building interfaces gradually grew into a deeper interest in *full-stack development*: understanding how applications work behind the scenes, how data flows through a system, and how thoughtful engineering turns ideas into useful products.
 
 ### 🧠 How I Think About Software
 
-For me, good software is not just code that works. It is a well-structured system designed to solve real problems.
+For me, **good software** is not just code that works. It is a well-structured system designed to solve real problems.
 
 `>` **Architecture & Data Flow** — Clear system design and well-organized communication between components.
 
@@ -78,9 +78,9 @@ I believe becoming a better developer means improving not only the code I write,
 
 ### From Problem to Production.
 
-I believe great development starts long before the first line of code. It begins with understanding the problem, planning the right approach, and making thoughtful technical decisions.
+I believe great development starts long before the first line of code. It begins with understanding the problem, planning the right approach, and making **thoughtful technical decisions**.
 
-My workflow combines structured planning, intentional design, AI-assisted problem-solving, full-stack development, testing, and deployment. I choose tools based on the problem at hand—not the other way around.
+My workflow combines structured planning, intentional design, AI-assisted problem-solving, full-stack development, testing, and deployment. I choose tools based on **the problem at hand**—not the other way around.
 
 ### 🔎 01. Discovery — Understand Before Building
 
@@ -104,7 +104,7 @@ I work with AI tools such as ChatGPT, Claude, Antigravity, and Google AI Studio,
 
 I don't follow a one-tool-for-everything approach. I first identify the problem, investigate its possible causes, and determine what kind of solution is needed. Then I choose the tools that best support the task.
 
-For me, AI is a way to explore solutions, accelerate development, investigate issues, and improve my workflow—not a replacement for understanding the code or verifying the result.
+For me, AI is a way to explore solutions, accelerate development, investigate issues, and improve my workflow—*not a replacement for understanding the code or verifying the result.*
 
 **My approach:** Understand the Problem → Investigate → Choose the Right Tools → Evaluate the Solution
 
@@ -150,7 +150,7 @@ Deployment is not the final checkbox—it is another stage where the application
 
 **Understand deeply. Plan thoughtfully. Build intentionally. Test carefully. Deploy responsibly.**
 
-I believe the best workflow is not about using the most tools. It is about understanding the problem, choosing the right approach, and delivering a solution that works reliably in the real world.
+I believe the best workflow is not about using the most tools. It is about understanding the problem, choosing the right approach, and delivering a solution that **works reliably** in the real world.
 
 <img src="assets/chapter-04.svg" alt="Chapter 4 of 7" width="100%">
 
@@ -160,7 +160,7 @@ I believe the best workflow is not about using the most tools. It is about under
 
 > “Crafting digital experiences where design meets functionality.”
 
-Sabr Studio is a freelance project focused on an interior design and architecture brand. The platform brings together project showcases, retail products, service information, customer enquiries, and an online shopping experience.
+Sabr Studio is a **freelance project** focused on an interior design and architecture brand. The platform brings together project showcases, retail products, service information, customer enquiries, and an online shopping experience.
 
 ### 🌐 Explore the Project
 
@@ -225,7 +225,7 @@ Sabr Studio is a freelance project focused on an interior design and architectur
 
 ### 💡 What This Project Represents
 
-Sabr Studio represents my experience working beyond the visual layer — connecting the user interface, APIs, database operations, admin workflows, customer journeys, and deployment into one full-stack application.
+Sabr Studio represents my experience working **beyond the visual layer** — connecting the user interface, APIs, database operations, admin workflows, customer journeys, and deployment into one full-stack application.
 
 **Project Type:** Freelance Project  
 **Focus:** `Full-Stack Development` · `E-commerce` · `Admin Dashboard` · `API Integration` · `Deployment`
@@ -240,7 +240,7 @@ Sabr Studio represents my experience working beyond the visual layer — connect
 
 > “Making education easier to discover, explore, and access.”
 
-Jamia Academy is a freelance website project for a computer and skills training institute in Jamia Nagar, Delhi. The platform presents the institute, its courses, learning environment, and contact information through a modern, interactive website.
+Jamia Academy is a **freelance website project** for a computer and skills training institute in Jamia Nagar, Delhi. The platform presents the institute, its courses, learning environment, and contact information through a modern, interactive website.
 
 ### 🌐 Explore the Project
 
@@ -355,7 +355,7 @@ Jamia Academy represents my approach to building an education-focused digital ex
 
 ### What I'm Working on Now.
 
-I'm currently balancing full-stack development, freelance projects, and teaching while continuing to strengthen my technical and communication skills.
+I'm currently balancing full-stack development, freelance projects, and teaching while continuing to strengthen my **technical and communication skills**.
 
 This chapter is a snapshot of what I'm building, what I'm learning, and what I'm working toward next.
 
@@ -421,7 +421,7 @@ This section evolves as I build, learn, solve problems, and take on new challeng
 
 I'm still learning, building, and figuring out how to become a better developer with every project.
 
-My next chapter is about going deeper—not just writing more code, but understanding systems better, building higher-quality products, and growing as both an engineer and an educator.
+My next chapter is about going deeper—not just writing more code, but *understanding systems better*, building higher-quality products, and growing as both an engineer and an educator.
 
 ### 🏗️ Stronger Engineering
 
