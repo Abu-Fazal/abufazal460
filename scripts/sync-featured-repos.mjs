@@ -1,6 +1,7 @@
 // Syncs the Featured Repositories region of README.md from the user's pinned repositories.
 // Only the text between the START/END markers is replaced. On any API error the README is left untouched.
 import { readFile, writeFile } from "node:fs/promises";
+import { pathToFileURL } from "node:url";
 
 export const START = "<!-- FEATURED-REPOS:START -->";
 export const END = "<!-- FEATURED-REPOS:END -->";
@@ -37,7 +38,7 @@ export async function fetchPinned(login, token, fetchImpl = fetch) {
 export function buildRegion(repos, login) {
   if (repos.length === 0) return `<p align="center"><em>No pinned repositories right now.</em></p>`;
   const cards = repos.map((r) => {
-    const label = [r.name, r.description, r.primaryLanguage?.name].filter(Boolean).join(" — ");
+    const label = [r.name, r.description, r.primaryLanguage?.name].filter(Boolean).join(" - ");
     const card = `https://github-readme-stats.vercel.app/api/pin/?username=${encodeURIComponent(login)}&repo=${encodeURIComponent(r.name)}&theme=dark`;
     return `<a href="${esc(r.url)}"><img alt="${esc(label)}" src="${esc(card)}" /></a>`;
   });
@@ -65,7 +66,7 @@ async function main() {
   console.log(`pinned repositories: ${repos.length}; README ${next !== readme ? "updated" : "unchanged"}`);
 }
 
-if (process.argv[1] && import.meta.url === new URL(`file://${process.argv[1]}`).href) {
+if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
   main().catch((err) => {
     console.error(err.message);
     process.exit(1);
