@@ -1,3 +1,24 @@
+<h2 align="center">Languages and Tech Stack</h2>
+
+<p align="center">
+<img src="assets/tech/html5.svg" alt="HTML5" width="48" />&nbsp;&nbsp;&nbsp;
+<img src="assets/tech/css.svg" alt="CSS" width="48" />&nbsp;&nbsp;&nbsp;
+<img src="assets/tech/javascript.svg" alt="JavaScript" width="48" />&nbsp;&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abufazal460/abufazal460/main/assets/tech/react-dark.svg"><img src="https://raw.githubusercontent.com/abufazal460/abufazal460/main/assets/tech/react-light.svg" alt="React" width="48" /></picture>&nbsp;&nbsp;&nbsp;
+<img src="assets/tech/nodedotjs.svg" alt="Node.js" width="48" />&nbsp;&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abufazal460/abufazal460/main/assets/tech/express-dark.svg"><img src="https://raw.githubusercontent.com/abufazal460/abufazal460/main/assets/tech/express-light.svg" alt="Express.js" width="48" /></picture>&nbsp;&nbsp;&nbsp;
+<img src="assets/tech/mongodb.svg" alt="MongoDB" width="48" />&nbsp;&nbsp;&nbsp;
+<img src="assets/tech/tailwindcss.svg" alt="Tailwind CSS" width="48" />&nbsp;&nbsp;&nbsp;
+<img src="assets/tech/vite.svg" alt="Vite" width="48" />&nbsp;&nbsp;&nbsp;
+<img src="assets/tech/git.svg" alt="Git" width="48" />&nbsp;&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abufazal460/abufazal460/main/assets/tech/github-dark.svg"><img src="https://raw.githubusercontent.com/abufazal460/abufazal460/main/assets/tech/github-light.svg" alt="GitHub" width="48" /></picture>&nbsp;&nbsp;&nbsp;
+<img src="assets/tech/figma.svg" alt="Figma" width="48" />&nbsp;&nbsp;&nbsp;
+<img src="assets/tech/postman.svg" alt="Postman" width="48" />&nbsp;&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abufazal460/abufazal460/main/assets/tech/vercel-dark.svg"><img src="https://raw.githubusercontent.com/abufazal460/abufazal460/main/assets/tech/vercel-light.svg" alt="Vercel" width="48" /></picture>
+</p>
+
+<hr>
+
 <p align="center"><img src="assets/banner.svg" alt="Abu Fazal — Full Stack Developer" width="100%"></p>
 
 <h1 align="center">Abu Fazal</h1>
@@ -14,6 +35,32 @@
 <p align="center"><img src="https://img.shields.io/badge/Location-India_Delhi-050F2C?style=for-the-badge&logoColor=white" alt="Location: India Delhi"></p>
 
 **Availability:** Open to freelance projects, meaningful collaborations, and opportunities to build impactful web experiences.
+
+<h2 align="center">Featured Repositories</h2>
+
+<!-- FEATURED-REPOS:START -->
+<p align="center"><em>Pinned repositories will appear here after the first sync.</em></p>
+<!-- FEATURED-REPOS:END -->
+
+<hr>
+
+<h2 align="center">My Stack</h2>
+
+<h4 align="center">Frontend Motion &amp; Quality</h4>
+<p align="center">
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
+<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+<img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" />
+</p>
+
+<h4 align="center">Services &amp; Deployment</h4>
+<p align="center">
+<img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger" />
+<img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white" alt="Razorpay" />
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+</p>
+
+<hr>
 
 <p align="center">
 <a href="#chapter-01--the-introduction"><img src="https://img.shields.io/badge/01_Introduction-050F2C?style=for-the-badge&logoColor=white" alt="01 Introduction"></a>

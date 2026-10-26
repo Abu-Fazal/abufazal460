@@ -1,0 +1,42 @@
+name: Sync featured repositories
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"   # every 6 hours; GitHub may delay scheduled runs
+  workflow_dispatch:           # manual refresh from the Actions tab
+
+permissions:
+  contents: write              # needed only to commit the README change
+
+concurrency:
+  group: featured-repos
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Update Featured Repositories region
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_LOGIN: ${{ github.repository_owner }}
+        run: node scripts/sync-featured-repos.mjs
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "No change to README.md"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: sync featured repositories"
+          git push
