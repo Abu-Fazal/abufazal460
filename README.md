@@ -1,24 +1,31 @@
 <p align="center"><img src="assets/banner.svg" alt="Abu Fazal — Full Stack Developer" width="100%"></p>
 
-# Abu Fazal
+<h1 align="center">Abu Fazal</h1>
 
-**Full Stack Developer**
+<h3 align="center">Full Stack Developer | Freelance Builder | Tech Educator</h3>
 
-> *I turn ideas into experiences — building for the web with code, creativity, and AI.*
+<h4 align="center"><em>I turn ideas into experiences — building for the web with code, creativity, and AI.</em></h4>
 
-[![Explore My Work →](assets/pill-cta-work.svg)](https://abufazal.netlify.app/) [![View My Projects →](assets/pill-cta-projects.svg)](https://github.com/abufazal460?tab=repositories)
+<p align="center">
+<a href="https://abufazal.netlify.app/"><img src="https://img.shields.io/badge/Explore_My_Work_%E2%86%92-050F2C?style=for-the-badge&logoColor=white" alt="Explore My Work →"></a>
+<a href="https://github.com/abufazal460?tab=repositories"><img src="https://img.shields.io/badge/View_My_Projects_%E2%86%92-050F2C?style=for-the-badge&logoColor=white" alt="View My Projects →"></a>
+</p>
 
-[![GitHub](assets/pill-github.svg)](https://github.com/abufazal460) [![LinkedIn](assets/pill-linkedin.svg)](https://www.linkedin.com/in/abu-fazal-1950703a6/) 
-[![Fiverr](assets/pill-fiverr.svg)](https://www.fiverr.com/users/abufazal_460/)
-[![Internshala](assets/pill-internshala.svg)](https://internshala.com/internships/matching-preferences/) [![Instagram](assets/pill-instagram.svg)](https://www.instagram.com/fazal_shaikh.9/) [![WhatsApp](assets/pill-whatsapp.svg)](https://wa.me/919718162907)
-
-![Location: India Delhi](assets/badge-location.svg)
+<p align="center"><img src="https://img.shields.io/badge/Location-India_Delhi-050F2C?style=for-the-badge&logoColor=white" alt="Location: India Delhi"></p>
 
 **Availability:** Open to freelance projects, meaningful collaborations, and opportunities to build impactful web experiences.
 
-[![01 Introduction](assets/chip-01.svg)](#chapter-01--the-introduction) [![02 Origin Story](assets/chip-02.svg)](#chapter-02--the-origin-story) [![03 The Craft](assets/chip-03.svg)](#chapter-03--the-craft) [![04 Sabr Studio](assets/chip-04.svg)](#chapter-04--sabr-studio) [![05 Jamia Academy](assets/chip-05.svg)](#chapter-05--jamia-academy) [![06 The Current Chapter](assets/chip-06.svg)](#chapter-06--the-current-chapter) [![07 The Next Chapter](assets/chip-07.svg)](#chapter-07--the-next-chapter)
+<p align="center">
+<a href="#chapter-01--the-introduction"><img src="https://img.shields.io/badge/01_Introduction-050F2C?style=for-the-badge&logoColor=white" alt="01 Introduction"></a>
+<a href="#chapter-02--the-origin-story"><img src="https://img.shields.io/badge/02_Origin_Story-050F2C?style=for-the-badge&logoColor=white" alt="02 Origin Story"></a>
+<a href="#chapter-03--the-craft"><img src="https://img.shields.io/badge/03_The_Craft-050F2C?style=for-the-badge&logoColor=white" alt="03 The Craft"></a>
+<a href="#chapter-04--sabr-studio"><img src="https://img.shields.io/badge/04_Sabr_Studio-050F2C?style=for-the-badge&logoColor=white" alt="04 Sabr Studio"></a>
+<a href="#chapter-05--jamia-academy"><img src="https://img.shields.io/badge/05_Jamia_Academy-050F2C?style=for-the-badge&logoColor=white" alt="05 Jamia Academy"></a>
+<a href="#chapter-06--the-current-chapter"><img src="https://img.shields.io/badge/06_The_Current_Chapter-050F2C?style=for-the-badge&logoColor=white" alt="06 The Current Chapter"></a>
+<a href="#chapter-07--the-next-chapter"><img src="https://img.shields.io/badge/07_The_Next_Chapter-050F2C?style=for-the-badge&logoColor=white" alt="07 The Next Chapter"></a>
+</p>
 
-<img src="assets/chapter-01.svg" alt="Chapter 1 of 7" width="100%">
+<hr>
 
 ## Chapter 01 — The Introduction
 
@@ -28,11 +35,11 @@ Hey, I'm **Abu Fazal** — a **Full Stack Developer**, **freelance builder**, an
 
 **Specialization:** `MERN Stack` • `Full-Stack Web Development` • `Frontend Development` • `Backend Development` • `AI-Assisted Development` • `Vibe Coding`
 
-![MongoDB](assets/badge-mongodb.svg) ![Express.js](assets/badge-express.svg) ![React](assets/badge-react.svg) ![Node.js](assets/badge-nodejs.svg)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 **Current Focus:** Currently teaching web development, building freelance projects, and working on **Sabr Studio** and **Jamia Academy**. Focused on *reliable full-stack applications*, *responsive UI*, *backend APIs*, and *production-ready deployment*.
 
-<img src="assets/chapter-02.svg" alt="Chapter 2 of 7" width="100%">
+<hr>
 
 ## Chapter 02 — The Origin Story
 
@@ -72,7 +79,7 @@ I believe becoming a better developer means improving not only the code I write,
 
 *I don't just want to make things work. I want to understand how they work, why they work, and how to make them better.*
 
-<img src="assets/chapter-03.svg" alt="Chapter 3 of 7" width="100%">
+<hr>
 
 ## Chapter 03 — The Craft
 
@@ -144,7 +151,7 @@ Deployment is not the final checkbox—it is another stage where the application
 
 **My focus:** `Production Builds` · `Hosting` · `Environment Configuration` · `Post-Deployment Verification`
 
-<img src="assets/divider.svg" alt="" width="100%">
+<hr>
 
 ### ⚡ My Working Philosophy
 
@@ -152,7 +159,7 @@ Deployment is not the final checkbox—it is another stage where the application
 
 I believe the best workflow is not about using the most tools. It is about understanding the problem, choosing the right approach, and delivering a solution that **works reliably** in the real world.
 
-<img src="assets/chapter-04.svg" alt="Chapter 4 of 7" width="100%">
+<hr>
 
 ## Chapter 04 — Sabr Studio
 
@@ -190,7 +197,7 @@ Sabr Studio is a **freelance project** focused on an interior design and archite
 
 ### ⚙️ Architecture & Technology
 
-![React](assets/badge-react.svg) ![Vite](assets/badge-vite.svg) ![Tailwind CSS](assets/badge-tailwind.svg) ![Node.js](assets/badge-nodejs.svg) ![Express.js](assets/badge-express.svg) ![MongoDB](assets/badge-mongodb.svg) ![Razorpay](assets/badge-razorpay.svg) ![Cloudinary](assets/badge-cloudinary.svg) ![Vercel](assets/badge-vercel.svg) ![Hostinger](assets/badge-hostinger.svg)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-9135FF?style=for-the-badge&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
 
 <details>
 <summary>View table</summary>
@@ -230,9 +237,9 @@ Sabr Studio represents my experience working **beyond the visual layer** — con
 **Project Type:** Freelance Project  
 **Focus:** `Full-Stack Development` · `E-commerce` · `Admin Dashboard` · `API Integration` · `Deployment`
 
-[![🌐 Visit Live Website](assets/pill-live.svg)](https://sabrstudio.in/) [![💻 Explore Source Code](assets/pill-code.svg)](https://github.com/abufazal460/Sabr-Studio)
+[![Visit Live Website](https://img.shields.io/badge/Visit_Live_Website-050F2C?style=for-the-badge&logoColor=white)](https://sabrstudio.in/) [![Explore Source Code](https://img.shields.io/badge/Explore_Source_Code-050F2C?style=for-the-badge&logoColor=white)](https://github.com/abufazal460/Sabr-Studio)
 
-<img src="assets/chapter-05.svg" alt="Chapter 5 of 7" width="100%">
+<hr>
 
 ## Chapter 05 — Jamia Academy
 
@@ -288,7 +295,7 @@ The website uses a distinctive terracotta-and-charcoal visual direction, locally
 
 ### ⚙️ Technology Stack
 
-![React](assets/badge-react.svg) ![Vite](assets/badge-vite.svg) ![Tailwind CSS](assets/badge-tailwind.svg) ![Framer Motion](assets/badge-framer-motion.svg) ![GSAP](assets/badge-gsap.svg) ![ESLint](assets/badge-eslint.svg) ![Vercel](assets/badge-vercel.svg)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-9135FF?style=for-the-badge&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 <details>
 <summary>View table</summary>
@@ -347,9 +354,9 @@ Jamia Academy represents my approach to building an education-focused digital ex
 **Project Type:** Freelance Project  
 **Focus:** `Frontend Development` · `UI/UX` · `Responsive Design` · `SEO` · `Web Performance` · `Deployment`
 
-[![🌐 Visit Live Website](assets/pill-live.svg)](https://jamiaacademy.in/) [![💻 Explore Source Code](assets/pill-code.svg)](https://github.com/abufazal460/Jamia-Academy)
+[![Visit Live Website](https://img.shields.io/badge/Visit_Live_Website-050F2C?style=for-the-badge&logoColor=white)](https://jamiaacademy.in/) [![Explore Source Code](https://img.shields.io/badge/Explore_Source_Code-050F2C?style=for-the-badge&logoColor=white)](https://github.com/abufazal460/Jamia-Academy)
 
-<img src="assets/chapter-06.svg" alt="Chapter 6 of 7" width="100%">
+<hr>
 
 ## Chapter 06 — The Current Chapter
 
@@ -413,7 +420,7 @@ I'm working to strengthen both my problem-solving ability and the way I build, e
 
 This section evolves as I build, learn, solve problems, and take on new challenges.
 
-<img src="assets/chapter-07.svg" alt="Chapter 7 of 7" width="100%">
+<hr>
 
 ## Chapter 07 — The Next Chapter
 
@@ -463,8 +470,31 @@ My learning journey continues across:
 
 I want to become a developer who can think critically, solve real problems, build dependable software, and explain complex ideas clearly.
 
-<img src="assets/divider.svg" alt="" width="100%">
+<hr>
 
 The next chapter isn't about claiming I've made it. It's about becoming better at what I do, one problem, one project, and one lesson at a time.
 
 **Still learning. Still building. Still moving forward.**
+
+<hr>
+
+<h1 align="center">Statistical Data</h1>
+
+|_**GitHub Stats**_|_**Top Languages**_|
+|-----------|-------------|
+|<img src="https://github-readme-stats.vercel.app/api?username=abufazal460&theme=algolia&show_icons=true" width="500" height="250" alt="GitHub stats">|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abufazal460&theme=algolia&layout=compact&langs_count=5" alt="Top languages">|
+
+<hr>
+
+<h3 align="center">Connect With Me:</h3>
+<p align="center">
+<a href="https://github.com/abufazal460"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/abu-fazal-1950703a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.fiverr.com/users/abufazal_460/"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"></a>
+<a href="https://internshala.com/internships/matching-preferences/"><img src="https://img.shields.io/badge/Internshala-lightgrey?style=for-the-badge&logoColor=white" alt="Internshala"></a>
+<a href="https://www.instagram.com/fazal_shaikh.9/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://wa.me/919718162907"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+</p>
+
+<br>
+<p align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt=""></p>
