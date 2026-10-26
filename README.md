@@ -1,23 +1,4 @@
-<h2 align="center">Languages and Tech Stack</h2>
 
-<p align="center">
-<img src="assets/tech/html5.svg" alt="HTML5" width="48" />&nbsp;&nbsp;&nbsp;
-<img src="assets/tech/css.svg" alt="CSS" width="48" />&nbsp;&nbsp;&nbsp;
-<img src="assets/tech/javascript.svg" alt="JavaScript" width="48" />&nbsp;&nbsp;&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abufazal460/abufazal460/main/assets/tech/react-dark.svg"><img src="https://raw.githubusercontent.com/abufazal460/abufazal460/main/assets/tech/react-light.svg" alt="React" width="48" /></picture>&nbsp;&nbsp;&nbsp;
-<img src="assets/tech/nodedotjs.svg" alt="Node.js" width="48" />&nbsp;&nbsp;&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abufazal460/abufazal460/main/assets/tech/express-dark.svg"><img src="https://raw.githubusercontent.com/abufazal460/abufazal460/main/assets/tech/express-light.svg" alt="Express.js" width="48" /></picture>&nbsp;&nbsp;&nbsp;
-<img src="assets/tech/mongodb.svg" alt="MongoDB" width="48" />&nbsp;&nbsp;&nbsp;
-<img src="assets/tech/tailwindcss.svg" alt="Tailwind CSS" width="48" />&nbsp;&nbsp;&nbsp;
-<img src="assets/tech/vite.svg" alt="Vite" width="48" />&nbsp;&nbsp;&nbsp;
-<img src="assets/tech/git.svg" alt="Git" width="48" />&nbsp;&nbsp;&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abufazal460/abufazal460/main/assets/tech/github-dark.svg"><img src="https://raw.githubusercontent.com/abufazal460/abufazal460/main/assets/tech/github-light.svg" alt="GitHub" width="48" /></picture>&nbsp;&nbsp;&nbsp;
-<img src="assets/tech/figma.svg" alt="Figma" width="48" />&nbsp;&nbsp;&nbsp;
-<img src="assets/tech/postman.svg" alt="Postman" width="48" />&nbsp;&nbsp;&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abufazal460/abufazal460/main/assets/tech/vercel-dark.svg"><img src="https://raw.githubusercontent.com/abufazal460/abufazal460/main/assets/tech/vercel-light.svg" alt="Vercel" width="48" /></picture>
-</p>
-
-<hr>
 
 <p align="center"><img src="assets/banner.svg" alt="Abu Fazal — Full Stack Developer" width="100%"></p>
 
@@ -44,20 +25,44 @@
 
 <hr>
 
-<h2 align="center">My Stack</h2>
+<h1 align="center">Statistical Data</h1>
 
-<h4 align="center">Frontend Motion &amp; Quality</h4>
+|_**GitHub Stats**_|_**Top Languages**_|
+|-----------|-------------|
+|<img src="https://github-readme-stats.vercel.app/api?username=abufazal460&theme=algolia&show_icons=true" width="500" height="250" alt="GitHub stats">|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abufazal460&theme=algolia&layout=compact&langs_count=5" alt="Top languages">|
+
+
+<hr>
+
+<h3 align="center">Connect With Me:</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
-<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
-<img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" />
+<a href="https://github.com/abufazal460"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/abu-fazal-1950703a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.fiverr.com/users/abufazal_460/"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"></a>
+<a href="https://internshala.com/internships/matching-preferences/"><img src="https://img.shields.io/badge/Internshala-lightgrey?style=for-the-badge&logoColor=white" alt="Internshala"></a>
+<a href="https://www.instagram.com/fazal_shaikh.9/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://wa.me/919718162907"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
 
-<h4 align="center">Services &amp; Deployment</h4>
+<br>
+<p align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt=""></p>
+<h2 align="center">Languages and Tech Stack</h2>
+
 <p align="center">
-<img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger" />
-<img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white" alt="Razorpay" />
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+<img src="assets/tech/html5.svg" alt="HTML5" width="48" />&nbsp;&nbsp;&nbsp;
+<img src="assets/tech/css.svg" alt="CSS" width="48" />&nbsp;&nbsp;&nbsp;
+<img src="assets/tech/javascript.svg" alt="JavaScript" width="48" />&nbsp;&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abufazal460/abufazal460/main/assets/tech/react-dark.svg"><img src="https://raw.githubusercontent.com/abufazal460/abufazal460/main/assets/tech/react-light.svg" alt="React" width="48" /></picture>&nbsp;&nbsp;&nbsp;
+<img src="assets/tech/nodedotjs.svg" alt="Node.js" width="48" />&nbsp;&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abufazal460/abufazal460/main/assets/tech/express-dark.svg"><img src="https://raw.githubusercontent.com/abufazal460/abufazal460/main/assets/tech/express-light.svg" alt="Express.js" width="48" /></picture>&nbsp;&nbsp;&nbsp;
+<img src="assets/tech/mongodb.svg" alt="MongoDB" width="48" />&nbsp;&nbsp;&nbsp;
+<img src="assets/tech/tailwindcss.svg" alt="Tailwind CSS" width="48" />&nbsp;&nbsp;&nbsp;
+<img src="assets/tech/vite.svg" alt="Vite" width="48" />&nbsp;&nbsp;&nbsp;
+<img src="assets/tech/git.svg" alt="Git" width="48" />&nbsp;&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abufazal460/abufazal460/main/assets/tech/github-dark.svg"><img src="https://raw.githubusercontent.com/abufazal460/abufazal460/main/assets/tech/github-light.svg" alt="GitHub" width="48" /></picture>&nbsp;&nbsp;&nbsp;
+<img src="assets/tech/figma.svg" alt="Figma" width="48" />&nbsp;&nbsp;&nbsp;
+<img src="assets/tech/postman.svg" alt="Postman" width="48" />&nbsp;&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abufazal460/abufazal460/main/assets/tech/vercel-dark.svg"><img src="https://raw.githubusercontent.com/abufazal460/abufazal460/main/assets/tech/vercel-light.svg" alt="Vercel" width="48" /></picture>
 </p>
 
 <hr>
@@ -522,26 +527,3 @@ I want to become a developer who can think critically, solve real problems, buil
 The next chapter isn't about claiming I've made it. It's about becoming better at what I do, one problem, one project, and one lesson at a time.
 
 **Still learning. Still building. Still moving forward.**
-
-<hr>
-
-<h1 align="center">Statistical Data</h1>
-
-|_**GitHub Stats**_|_**Top Languages**_|
-|-----------|-------------|
-|<img src="https://github-readme-stats.vercel.app/api?username=abufazal460&theme=algolia&show_icons=true" width="500" height="250" alt="GitHub stats">|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abufazal460&theme=algolia&layout=compact&langs_count=5" alt="Top languages">|
-
-<hr>
-
-<h3 align="center">Connect With Me:</h3>
-<p align="center">
-<a href="https://github.com/abufazal460"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://www.linkedin.com/in/abu-fazal-1950703a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.fiverr.com/users/abufazal_460/"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"></a>
-<a href="https://internshala.com/internships/matching-preferences/"><img src="https://img.shields.io/badge/Internshala-lightgrey?style=for-the-badge&logoColor=white" alt="Internshala"></a>
-<a href="https://www.instagram.com/fazal_shaikh.9/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://wa.me/919718162907"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-</p>
-
-<br>
-<p align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt=""></p>
