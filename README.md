@@ -21,10 +21,10 @@
 
 <!-- FEATURED-REPOS:START -->
 <p align="center">
-<a href="https://github.com/abufazal460/Jamia-Academy"><img alt="Jamia-Academy - JavaScript" src="https://github-readme-stats.vercel.app/api/pin/?username=abufazal460&amp;repo=Jamia-Academy&amp;theme=dark" /></a>
-<a href="https://github.com/abufazal460/Unite-for-Nation"><img alt="Unite-for-Nation - JavaScript" src="https://github-readme-stats.vercel.app/api/pin/?username=abufazal460&amp;repo=Unite-for-Nation&amp;theme=dark" /></a>
-<a href="https://github.com/abufazal460/Portfolio"><img alt="Portfolio - JavaScript" src="https://github-readme-stats.vercel.app/api/pin/?username=abufazal460&amp;repo=Portfolio&amp;theme=dark" /></a>
-<a href="https://github.com/abufazal460/Sabr-Studio"><img alt="Sabr-Studio - JavaScript" src="https://github-readme-stats.vercel.app/api/pin/?username=abufazal460&amp;repo=Sabr-Studio&amp;theme=dark" /></a>
+<a href="https://github.com/Abu-Fazal/Jamia-Academy"><img alt="Jamia-Academy - JavaScript" src="https://github-readme-stats.vercel.app/api/pin/?username=Abu-Fazal&amp;repo=Jamia-Academy&amp;theme=dark" /></a>
+<a href="https://github.com/Abu-Fazal/Unite-for-Nation"><img alt="Unite-for-Nation - JavaScript" src="https://github-readme-stats.vercel.app/api/pin/?username=Abu-Fazal&amp;repo=Unite-for-Nation&amp;theme=dark" /></a>
+<a href="https://github.com/Abu-Fazal/Portfolio"><img alt="Portfolio - JavaScript" src="https://github-readme-stats.vercel.app/api/pin/?username=Abu-Fazal&amp;repo=Portfolio&amp;theme=dark" /></a>
+<a href="https://github.com/Abu-Fazal/Sabr-Studio"><img alt="Sabr-Studio - JavaScript" src="https://github-readme-stats.vercel.app/api/pin/?username=Abu-Fazal&amp;repo=Sabr-Studio&amp;theme=dark" /></a>
 </p>
 <!-- FEATURED-REPOS:END -->
 
